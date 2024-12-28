@@ -1,6 +1,6 @@
 # e-GO Bus 🚍
 
-> **A Smart School Bus Tracking Solution for Safe and Efficient Commutes**
+> **A Smart School Bus Tracking Solution for Safe and Efficient Transportion**
 
 **e-GO Bus** is an innovative app crafted for parents, students, and bus drivers to make school commutes safer, more efficient, and less stressful. With real-time tracking and convenient features, e-GO Bus delivers peace of mind by ensuring every school bus journey is accounted for and easy to monitor.
 
