@@ -1,4 +1,5 @@
-import "dotenv/config"; // Load .env file
+import dotenv from "dotenv";
+dotenv.config(); 
 
 export default {
   expo: {
@@ -80,5 +81,11 @@ export default {
         projectId: "edf3ac22-146d-476a-a235-f1ed9ff741fe", // EAS Project ID
       },
     },
+    doctor: {
+      reactNativeDirectoryCheck: {
+        exclude: ["react-native-maps"],
+        listUnknownPackages: false
+      }
+    }
   },
 };
